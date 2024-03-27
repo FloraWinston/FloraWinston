@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on something really needs time and patience.
+- 🌱 I’m currently learning bioinformatics!
+- ⚡ Fun fact: I'm INFJ but looks like ENTP.
+
 <!--
 **FloraWinston/FloraWinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
